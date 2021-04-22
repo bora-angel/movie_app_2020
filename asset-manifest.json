@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/bora-angel/movie_app_2020/static/css/main.a07d3526.chunk.css",
+    "main.js": "/bora-angel/movie_app_2020/static/js/main.e65768a3.chunk.js",
+    "main.js.map": "/bora-angel/movie_app_2020/static/js/main.e65768a3.chunk.js.map",
+    "runtime-main.js": "/bora-angel/movie_app_2020/static/js/runtime-main.04cb0ec4.js",
+    "runtime-main.js.map": "/bora-angel/movie_app_2020/static/js/runtime-main.04cb0ec4.js.map",
+    "static/js/2.da9a5b7d.chunk.js": "/bora-angel/movie_app_2020/static/js/2.da9a5b7d.chunk.js",
+    "static/js/2.da9a5b7d.chunk.js.map": "/bora-angel/movie_app_2020/static/js/2.da9a5b7d.chunk.js.map",
+    "index.html": "/bora-angel/movie_app_2020/index.html",
+    "static/css/main.a07d3526.chunk.css.map": "/bora-angel/movie_app_2020/static/css/main.a07d3526.chunk.css.map",
+    "static/js/2.da9a5b7d.chunk.js.LICENSE.txt": "/bora-angel/movie_app_2020/static/js/2.da9a5b7d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.04cb0ec4.js",
+    "static/js/2.da9a5b7d.chunk.js",
+    "static/css/main.a07d3526.chunk.css",
+    "static/js/main.e65768a3.chunk.js"
+  ]
+}
